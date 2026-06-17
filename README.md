@@ -32,16 +32,16 @@ const oswald = {
 };
 ```
 
-> 🌍 Je construis des solutions tech adaptées aux réalités africaines.  
+>  Je construis des solutions tech adaptées aux réalités africaines.  
 > *I build tech solutions tailored to African realities.*
 
 ---
 
-## 🚀 Projet phare / Featured Project
+##  Projet phare / Featured Project
 
 <div align="center">
 
-[![VENDAI](https://img.shields.io/badge/🤖%20VENDAI-SaaS%20WhatsApp%20Commerce-00D9FF?style=for-the-badge)](https://github.com/Loik940/eventsphere)
+[![VENDAI](https://img.shields.io/badge/%20VENDAI-SaaS%20WhatsApp%20Commerce-00D9FF?style=for-the-badge)](https://github.com/Loik940/eventsphere)
 
 </div>
 
@@ -58,7 +58,7 @@ const oswald = {
 
 ---
 
-## 🛠️ Stack technique / Tech Stack
+##  Stack technique / Tech Stack
 
 <div align="center">
 
@@ -89,7 +89,7 @@ const oswald = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
