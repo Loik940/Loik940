@@ -42,7 +42,6 @@ I sit at the intersection of tech and entrepreneurship — building real product
 
 | | |
 |---|---|
-| 🎓 **Formation** | Entrepreneuriat & Création d'Entreprise |
 | 💻 **Spécialité** | Full-Stack JS · SaaS · IA |
 | 🚀 **Projet actuel** | VENDAI — WhatsApp Commerce |
 | 🌍 **Vision** | Tech made for Africa |
