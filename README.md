@@ -19,29 +19,47 @@
 
 ## 👤 À propos / About me
 
-```typescript
-const oswald = {
-  name:       "Oswald Loïk TCHEGNON",
-  alias:      "Loik940",
-  location:   "Cotonou, Bénin 🇧🇯",
-  role:       "Full-Stack JS Developer & Entrepreneur",
-  education:  "Licence Entrepreneuriat & Création d'Entreprise",
-  building:   "VENDAI — SaaS WhatsApp Commerce for African SMBs",
-  languages:  ["Français 🇫🇷 (natif)", "English 🇬🇧 (professionnel)"],
-  available:  true,
-};
-```
+<table>
+<tr>
+<td width="55%">
 
->  Je construis des solutions tech adaptées aux réalités africaines.  
-> *I build tech solutions tailored to African realities.*
+### 🇧🇯 Oswald Loïk TCHEGNON
+
+Développeur Full-Stack JavaScript basé à **Cotonou, Bénin**.  
+J'explore l'intersection entre **tech et entrepreneuriat** — je construis des produits concrets pour résoudre des problèmes réels en Afrique.
+
+*Full-Stack JavaScript developer based in Cotonou, Benin.  
+I sit at the intersection of tech and entrepreneurship — building real products for real problems in Africa.*
+
+<br/>
+
+![Status](https://img.shields.io/badge/🔨%20Actuellement-Building%20VENDAI-00D9FF?style=flat-square)  
+![Open](https://img.shields.io/badge/💼%20Disponible-Freelance%20%26%20Collab-2ECC71?style=flat-square)  
+![Location](https://img.shields.io/badge/📍%20Localisation-Cotonou%2C%20B%C3%A9nin%20🇧🇯-FF6B35?style=flat-square)
+
+</td>
+<td width="45%" align="center">
+
+| | |
+|---|---|
+| 🎓 **Formation** | Entrepreneuriat & Création d'Entreprise |
+| 💻 **Spécialité** | Full-Stack JS · SaaS · IA |
+| 🚀 **Projet actuel** | VENDAI — WhatsApp Commerce |
+| 🌍 **Vision** | Tech made for Africa |
+| 🗣️ **Langues** | 🇫🇷 Natif · 🇬🇧 Pro |
+| ⚡ **Fun fact** | Je code et j'entreprends en même temps |
+
+</td>
+</tr>
+</table>
 
 ---
 
-##  Projet phare / Featured Project
+## 🚀 Projet phare / Featured Project
 
 <div align="center">
 
-[![VENDAI](https://img.shields.io/badge/%20VENDAI-SaaS%20WhatsApp%20Commerce-00D9FF?style=for-the-badge)](https://github.com/Loik940/eventsphere)
+[![VENDAI](https://img.shields.io/badge/🤖%20VENDAI-SaaS%20WhatsApp%20Commerce-00D9FF?style=for-the-badge)](https://github.com/Loik940/eventsphere)
 
 </div>
 
@@ -58,7 +76,7 @@ const oswald = {
 
 ---
 
-##  Stack technique / Tech Stack
+## 🛠️ Stack technique / Tech Stack
 
 <div align="center">
 
@@ -89,7 +107,7 @@ const oswald = {
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
