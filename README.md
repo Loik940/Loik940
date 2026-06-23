@@ -58,7 +58,7 @@ I sit at the intersection of tech and entrepreneurship — building real product
 
 <div align="center">
 
-[![VENDAI](https://img.shields.io/badge/🤖%20VENDAI-SaaS%20WhatsApp%20Commerce-00D9FF?style=for-the-badge)](https://github.com/Loik940/eventsphere)
+[![VENDAI](https://img.shields.io/badge/🤖%20VENDAI-SaaS%20WhatsApp%20Commerce-00D9FF?style=for-the-badge)](https://github.com/Loik940/VENDAI.git)
 
 </div>
 
