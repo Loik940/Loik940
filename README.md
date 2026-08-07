@@ -1,15 +1,12 @@
-
 <div align="center">
-<!-- HEADER ANIMÉ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Oswald%20Lo%C3%AFk%20TCHEGNON&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20Entrepreneur&descAlignY=55&descSize=18" width="100%" />
-<!-- TYPING ANIMATION -->
+<br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+JavaScript+Developer+%F0%9F%9A%80;SaaS+Builder+for+Africa+%F0%9F%8C%8D;Next.js+14+%7C+TypeScript+%7C+Node.js;Building+VENDAI+%26+DR%C3%89PA+%F0%9F%94%A5;Code+meets+business+%F0%9F%92%A1)](https://git.io/typing-svg)
  
 <br/>
-<!-- BADGES CONTACT -->
 [![Gmail](https://img.shields.io/badge/loiktgn%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loiktgn@gmail.com)
 [![GitHub](https://img.shields.io/badge/Loik940-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Loik940)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loïk-t-ba990b348)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lo%C3%AEk-t-ba990b348)
 [![Bénin](https://img.shields.io/badge/Cotonou%2C%20B%C3%A9nin-008751?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
  
 </div>
@@ -17,47 +14,33 @@
  
 ## 👤 À propos / About me
  
-<table>
-<tr>
-<td width="55%">
-### 🇧🇯 Oswald Loïk TCHEGNON
- 
-Développeur Full-Stack JavaScript basé à **Cotonou, Bénin**.  
+Développeur **Full-Stack JavaScript** basé à **Cotonou, Bénin** 🇧🇯  
 J'explore l'intersection entre **tech et entrepreneuriat** — je construis des produits concrets pour résoudre des problèmes réels en Afrique.
  
-*Full-Stack JavaScript developer based in Cotonou, Benin.  
-I sit at the intersection of tech and entrepreneurship — building real products for real problems in Africa.*
+*Full-Stack JavaScript developer based in Cotonou, Benin. I build real products for real African problems.*
  
-<br/>
-![Status](https://img.shields.io/badge/🔨%20Actuellement-VENDAI%20%26%20DRÉPA-00D9FF?style=flat-square)
-![Open](https://img.shields.io/badge/💼%20Disponible-Freelance%20%26%20Collab-2ECC71?style=flat-square)
-![Location](https://img.shields.io/badge/📍-Cotonou%2C%20Bénin%20🇧🇯-FF6B35?style=flat-square)
+![Status](https://img.shields.io/badge/🔨_Actuellement-VENDAI_%26_DRÉPA-00D9FF?style=flat-square)
+![Open](https://img.shields.io/badge/💼_Disponible-Freelance_%26_Collab-2ECC71?style=flat-square)
+![Location](https://img.shields.io/badge/📍_Localisation-Cotonou%2C_Bénin-FF6B35?style=flat-square)
  
-</td>
-<td width="45%" align="center">
 | | |
 |---|---|
-| 🎓 **Formation** | Entrepreneuriat & Création d'Entreprise |
+| 🎓 **Formation** | Entrepreneuriat & Création d'Entreprise — IFRI-UAC |
 | 💻 **Spécialité** | Full-Stack JS · SaaS · IA · Mobile |
-| 🚀 **SaaS** | VENDAI — WhatsApp Commerce |
+| 🚀 **SaaS** | VENDAI — WhatsApp Commerce for Africa |
 | 📱 **App Mobile** | DRÉPA — Santé Drépanocytose |
 | 🛡️ **Cybersécurité** | SENTINELLE — Détection Phishing |
 | 🌍 **Vision** | Tech made for Africa |
-| 🗣️ **Langues** | 🇫🇷 Natif · 🇬🇧 Pro |
+| 🗣️ **Langues** | 🇫🇷 Natif · 🇬🇧 Professionnel |
  
-</td>
-</tr>
-</table>
 ---
  
 ## 🚀 Projets phares / Featured Projects
  
 ### 🤖 VENDAI — SaaS WhatsApp Commerce
  
-<div align="center">
 [![VENDAI](https://img.shields.io/badge/VENDAI-SaaS%20WhatsApp%20Commerce%20for%20Africa-00D9FF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/Loik940/VENDAI)
  
-</div>
 Automatise le commerce WhatsApp pour les petits marchands africains grâce à l'IA.  
 *Automates WhatsApp commerce for small African merchants using AI.*
  
@@ -73,30 +56,25 @@ Automatise le commerce WhatsApp pour les petits marchands africains grâce à l'
  
 ### 🩸 DRÉPA — App Mobile Santé
  
-<div align="center">
 [![DREPA](https://img.shields.io/badge/DRÉPA-App%20Mobile%20Drépanocytose-E74C3C?style=for-the-badge&logo=expo&logoColor=white)](https://github.com/Loik940/DREPA)
  
-</div>
 Application mobile Android francophone pour accompagner les personnes vivant avec la **drépanocytose** en Afrique.  
-*French-speaking mobile app to support people living with sickle cell disease in Africa.*
+*French-speaking mobile app supporting people living with sickle cell disease in Africa.*
  
 | Feature | Stack |
 |---|---|
 | 📱 App mobile cross-platform | React Native + Expo |
 | 🔐 Auth & données utilisateur | Supabase |
 | 📓 Journal de santé sécurisé | TypeScript |
-| 🎨 UI accessible & inclusive | Tailwind (NativeWind) |
+| 🎨 UI accessible & inclusive | NativeWind (Tailwind) |
  
 ---
  
 ### 🛡️ SENTINELLE — Cybersécurité
  
-<div align="center">
-[![SENTINELLE](https://img.shields.io/badge/SENTINELLE-Détection%20Phishing%20%26%20Fraude-9B59B6?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/Uriel-Hope/SENTINELLE)
+[![SENTINELLE](https://img.shields.io/badge/SENTINELLE-Détection%20Phishing%20%26%20Fraude-9B59B6?style=for-the-badge&logo=protonmail&logoColor=white)](https://github.com/Uriel-Hope/SENTINELLE)
  
-</div>
-Plateforme étudiante de cybersécurité (IFRI-UAC) — détecte le phishing/fraude et génère des **rapports PDF forensiques certifiés**.  
-*Student cybersecurity platform detecting phishing/fraud with certified forensic PDF reports.*
+Plateforme étudiante de cybersécurité (IFRI-UAC) — détecte le phishing & fraude et génère des **rapports PDF forensiques certifiés**.
  
 | Rôle | Stack |
 |---|---|
@@ -110,27 +88,31 @@ Plateforme étudiante de cybersécurité (IFRI-UAC) — détecte le phishing/fra
 ## 🛠️ Stack technique / Tech Stack
  
 <div align="center">
-**Frontend**  
+**🖥️ Frontend**
+ 
 ![Next.js](https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
  
-**Backend**  
+**⚙️ Backend**
+ 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma%207-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
  
-**IA & Intégrations**  
-![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/Whapi.cloud-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+**🤖 IA & Intégrations**
+ 
+![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+![Whapi](https://img.shields.io/badge/Whapi.cloud-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![Brevo](https://img.shields.io/badge/Brevo%20SMTP-0B996E?style=flat-square&logo=sendinblue&logoColor=white)
  
-**Autres**  
+**🔧 Autres**
+ 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -144,9 +126,8 @@ Plateforme étudiante de cybersécurité (IFRI-UAC) — détecte le phishing/fra
 <div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Loik940&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loik940&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" />
-</div>
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Loik940&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&count_private=true)](https://git.io/streak-stats)
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Loik940&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
 </div>
 ---
@@ -167,9 +148,9 @@ Plateforme étudiante de cybersécurité (IFRI-UAC) — détecte le phishing/fra
 ## 💡 En ce moment / Currently
  
 - 🩸 Développement de **DRÉPA** — app mobile React Native/Expo pour la drépanocytose
-- 🤖 Maintenance & amélioration de **VENDAI** en production
+- 🤖 Maintenance & améliorations de **VENDAI** en production
 - 🛡️ Lead Frontend sur **SENTINELLE** — compétition STIC'26
-- 🏗️ Participation au programme **Imolè Build** (30 jours)
+- 🏗️ Programme **Imolè Build** (30 jours)
 - 🎯 Objectif : impact tech concret pour l'Afrique francophone
 ---
  
